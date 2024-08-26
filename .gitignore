@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+*.suo
+wwwroot/lib/tools/wkhtmltopdf.exe
+.vs/
+
